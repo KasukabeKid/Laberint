@@ -164,6 +164,7 @@ GameObject:
   - component: {fileID: 42517721}
   - component: {fileID: 42517723}
   - component: {fileID: 42517722}
+  - component: {fileID: 42517724}
   m_Layer: 0
   m_Name: Mushroom (4)
   m_TagString: Untagged
@@ -249,6 +250,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &42517724
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42517720}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000023841858, y: -0.0000019073486}
+  serializedVersion: 2
+  m_Radius: 2.5
 --- !u!1 &415735732
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,6 +412,7 @@ GameObject:
   - component: {fileID: 540143282}
   - component: {fileID: 540143284}
   - component: {fileID: 540143283}
+  - component: {fileID: 540143285}
   m_Layer: 0
   m_Name: Mushroom
   m_TagString: Untagged
@@ -480,6 +498,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &540143285
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540143281}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000038146973, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.5
 --- !u!1 &595761270
 GameObject:
   m_ObjectHideFlags: 0
@@ -626,6 +660,7 @@ GameObject:
   - component: {fileID: 830825682}
   - component: {fileID: 830825684}
   - component: {fileID: 830825683}
+  - component: {fileID: 830825685}
   m_Layer: 0
   m_Name: Mushroom (1)
   m_TagString: Untagged
@@ -711,6 +746,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &830825685
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830825681}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.0000009536743}
+  serializedVersion: 2
+  m_Radius: 2.5
 --- !u!1 &957180709
 GameObject:
   m_ObjectHideFlags: 0
@@ -856,6 +907,7 @@ GameObject:
   - component: {fileID: 1028423808}
   - component: {fileID: 1028423810}
   - component: {fileID: 1028423809}
+  - component: {fileID: 1028423811}
   m_Layer: 0
   m_Name: Mushroom (3)
   m_TagString: Untagged
@@ -941,6 +993,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1028423811
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028423807}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000019073486, y: -0.00000023841858}
+  serializedVersion: 2
+  m_Radius: 2.5
 --- !u!1 &1099546872
 GameObject:
   m_ObjectHideFlags: 0
@@ -1261,6 +1329,7 @@ GameObject:
   - component: {fileID: 1569700534}
   - component: {fileID: 1569700536}
   - component: {fileID: 1569700535}
+  - component: {fileID: 1569700537}
   m_Layer: 0
   m_Name: Mushroom (2)
   m_TagString: Untagged
@@ -1346,6 +1415,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1569700537
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569700533}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.00000023841858}
+  serializedVersion: 2
+  m_Radius: 2.5
 --- !u!1 &1695017630
 GameObject:
   m_ObjectHideFlags: 0
